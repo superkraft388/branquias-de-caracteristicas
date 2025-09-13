@@ -1,0 +1,21 @@
+{
+  "name": "branquias-de-caracteristicas",
+  "version": "1.0.0",
+  "description": "Proyecto para facilitar el uso de 'feature branching' en el desarrollo de software.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Error: no test specified' && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tu_usuario/branquias-de-caracteristicas.git"
+  },
+  "keywords": ["feature-branching", "herramientas", "desarrollo"],
+  "author": "Tu Nombre",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tu_usuario/branquias-de-caracteristicas/issues"
+  },
+  "homepage": "https://github.com/tu_usuario/branquias-de-caracteristicas#readme",
+  "dependencies": {}
+}
