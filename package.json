@@ -17,5 +17,8 @@
     "url": "https://github.com/nuevo_usuario/branquias-de-caracteristicas/issues"
   },
   "homepage": "https://github.com/nuevo_usuario/branquias-de-caracteristicas#readme",
-  "dependencies": {}
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^8.0.0"
+  }
 }
