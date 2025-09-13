@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tu_usuario/branquias-de-caracteristicas.git"
+    "url": "git+https://github.com/nuevo_usuario/branquias-de-caracteristicas.git"
   },
   "keywords": ["feature-branching", "herramientas", "desarrollo"],
   "author": "Juan Pérez",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tu_usuario/branquias-de-caracteristicas/issues"
+    "url": "https://github.com/nuevo_usuario/branquias-de-caracteristicas/issues"
   },
-  "homepage": "https://github.com/tu_usuario/branquias-de-caracteristicas#readme",
+  "homepage": "https://github.com/nuevo_usuario/branquias-de-caracteristicas#readme",
   "dependencies": {}
 }
